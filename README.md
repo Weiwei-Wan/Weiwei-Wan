@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weiwei-Wan&show_icons=true&theme=tokyonight)](https://github.com/Weiwei-Wan/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weiwei-Wan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Weiwei-Wan/Weiwei-Wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
